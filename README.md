@@ -276,10 +276,11 @@ DQ4 disc as base, DW7 EXE patched and swapped into the EXE slot (sector 24). DQ4
 ## Credits
 
 - **Lux Aura** — Project direction, LIMINAL LORE agentic toolchain, emulator development, binary patching, build pipeline
-Referenced repos: PSXOxide, PSXMister, pcstation, PSXN00B
+Referenced repos: PSXOxide, PSXMister, pcstation, PSXN00B, duckstation
 https://github.com/EBonura/PSoXide
 https://github.com/Lameguy64/PSn00bSDK/
 https://github.com/VelocityRa/pctation
+https://github.com/stenzek/duckstation
 ---
 
 ## License

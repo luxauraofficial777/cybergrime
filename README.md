@@ -275,12 +275,11 @@ DQ4 disc as base, DW7 EXE patched and swapped into the EXE slot (sector 24). DQ4
 
 ## Credits
 
-- **Lux Aura** — Project direction, LIMINAL LINK agentic toolchain, emulator development, binary patching, build pipeline
-- **Markus Schröder** — Original DQ4 PSX reverse-engineering and patcher ([markus-projects.net](http://markus-projects.net/dragon-hackst-iv/))
-- **awilles** — Heart Beat Engine research and documentation
-- **ChickenKnife** — DQ4 translation work ([romhacking.net](https://www.romhacking.net/hacks/4275/))
-- **PCSX-Redux / OpenBIOS / MAME** — Reference source for HLE BIOS, CPU core, and hardware emulation
-
+- **Lux Aura** — Project direction, LIMINAL LORE agentic toolchain, emulator development, binary patching, build pipeline
+Referenced repos: PSXOxide, PSXMister, pcstation, PSXN00B
+https://github.com/EBonura/PSoXide
+https://github.com/Lameguy64/PSn00bSDK/
+https://github.com/VelocityRa/pctation
 ---
 
 ## License

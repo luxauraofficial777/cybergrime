@@ -1,10 +1,10 @@
 # CYBERGRIME V0.1 Developed by Lux Aura
 Custom PSX EMU harness for QA/TEST/DEBUG
 http://facebook.com/LuxAuraOfficial
-youtube.com/LuxAuraOfficial
-luxaura.bandcamp.com
+http://youtube.com/LuxAuraOfficial
+http://luxaura.bandcamp.com
 
-# CYBERGRIME
+# CYBERGRIME CUSTOM EMULATOR HARNESSS TEST/QA/DEBUG
 
 ### PSX Emulator Harness & Binary Patching Toolkit for Dragon Quest IV Translation
 

@@ -1,4 +1,5 @@
 # CYBERGRIME V0.1 Developed by Lux Aura
+<img width="1024" height="1024" alt="cybergrime" src="https://github.com/user-attachments/assets/e9f6753e-f001-439d-9705-a7e4fda286d4" />
 Custom PSX EMU harness for QA/TEST/DEBUG
 http://facebook.com/LuxAuraOfficial
 http://youtube.com/LuxAuraOfficial
